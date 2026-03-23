@@ -42,7 +42,7 @@ Based on the input, the program outputs whether the identity matches.
 
 ## 💻 Code Structure
 
-
+```
 ICETask2/
 │── src/
 │   └── main/
@@ -50,7 +50,7 @@ ICETask2/
 │           └── com/mycompany/icetask2/
 │               └── ICETask2.java
 │── pom.xml
-
+```
 
 ---
 
@@ -61,25 +61,25 @@ ICETask2/
 1. Open the project in your IDE
 2. Ensure the main class is set to:
 
-   
+   ```
    com.mycompany.icetask2.ICETask2
-  
+   ```
 3. Click **Run**
 
 ---
 
 ### Using Terminal (Maven)
 
-bash
+```bash
 mvn clean compile
 mvn exec:java -Dexec.mainClass="com.mycompany.icetask2.ICETask2"
-
+```
 
 ---
 
 ## 🧪 Example Output
 
-
+```
 Please enter your first name
 Jack
 Please enter your surname
@@ -87,9 +87,9 @@ Khoza
 Please enter your age
 25
 This is Jack
+```
 
-
-
+```
 Please enter your first name
 John
 Please enter your surname
@@ -97,7 +97,7 @@ Doe
 Please enter your age
 30
 This is not Jack
-
+```
 
 ---
 
@@ -119,8 +119,14 @@ This project demonstrates:
 * Conditional logic (`if-else`)
 * Boolean return types
 
-
+---
 
 ## ✍️ Author
 
-* ST10466937 - Fardheen Khan
+* Student Project for Programming ICE Task
+
+---
+
+## 📄 License
+
+This project is for educational purposes.
