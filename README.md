@@ -1,5 +1,3 @@
-# ICETask2-PROG5121
-
 # ICETask2 - Java Identity Checker
 
 ## 📌 Overview
